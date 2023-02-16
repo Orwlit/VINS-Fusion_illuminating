@@ -1,6 +1,6 @@
 .vscode/
 vins_estimator/.vscode/
-
+.idea
 
 # Project exclude paths
 /cmake-build-debug/
